@@ -1,0 +1,43 @@
+.{
+    font-size: 12px;
+    margin: 0 auto;
+}
+
+header{
+    background-color: aqua;
+    color: white;
+}
+h1{
+    font-size: 2em;
+}
+p{
+    font-size: 1em;
+}
+button{
+    width: 100px;
+    height: 70px;
+    margin: 10px;
+    font-size: 2em;
+    color: white;
+    background-color: red;
+}
+input{
+    margin: 20px;
+}
+#contenido{
+    margin: 10px;
+    border: 2px dotted;
+}
+.parrafo{
+    margin: 5px;
+    padding: 5px;
+    color: orangered;
+    font-size: 1.5em;
+}
+.amarillo{
+    color: yellow;
+    background-color: blue;
+}
+.parrafoLista{
+    color: green;
+}

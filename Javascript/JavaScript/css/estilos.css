@@ -1,0 +1,25 @@
+.{
+    font-size: 12px;
+    margin: 0 auto;
+}
+p{
+    color: blue;
+    background-color: yellow;
+}
+a{
+    color: yellowgreen;
+    background-color: aqua;
+    font-size: 1em;
+}
+a:hover{
+    color: red;
+    background-color: yellowgreen;
+    font-size: 2em;
+}
+.miParrafo{
+    color: red;
+    background-color: aqua;
+}
+#contenido{
+    background-color: brown;
+}
